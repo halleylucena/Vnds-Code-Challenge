@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+The First view is a login page, for test purposes, the only action needed is clicking in the login button.
+
 ## Build Setup
 
 ``` bash
