@@ -1,4 +1,4 @@
-# Vendus Frontend
+# Vnds Frontend Code Challenge
 
 > A Vue.js project
 
